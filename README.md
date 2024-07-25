@@ -20,7 +20,7 @@ FMVs aren't included since they take a large amount of storage space (about 16gi
 
 # HOW TO HELP #
 
-You can give me feedback by contacting me on discord, things like non-upscaled textures or anything of note.
+You can give me feedback by contacting me on discord (@lucaspec72#9705), things like non-upscaled textures or anything of note.
 
 If you want to help with dumping any stray textures i missed, you can enable texture dumping while running the texture pack, dolphin will only dump textures not yet present in it. then you can send them to me so that i can upscale them and include them in the Texture Pack.
 
