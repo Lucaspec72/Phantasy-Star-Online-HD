@@ -2,6 +2,8 @@
 
 This is a texture pack for the Gamecube version of Phantasy Star Online made to work on the Dolphin emulator. Textures were dumped with Dolphin's texture dumping feature as well as Venomalia's DolphinTextureExtraction-tool, and upscaled with the HDcube 3 ESRGAN model.
 
+Mediafire Download : https://www.mediafire.com/folder/9f2hyo37ul1zf/PSO_HD
+
 ![HDpack1](https://github.com/user-attachments/assets/bd3472e2-a930-494e-9760-8407b61ad452)
 
 
