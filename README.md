@@ -7,7 +7,7 @@ This is a texture pack for the Gamecube version of Phantasy Star Online made to 
 
 
 
-# Notes on the current state Of the Texture Pack #
+# Notes on the current state of the Texture Pack #
 
 Current version has textures for all of episode 1 and episode 2.
 
