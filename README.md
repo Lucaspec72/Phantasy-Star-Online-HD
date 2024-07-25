@@ -1,4 +1,4 @@
-# Phantasy-Star-Online-HD
+# Phantasy-Star Online High Definition
 A High Definition Texture Pack for the Gamecube version of Phantasy Star Online.
 
 This is a texture pack for the Gamecube version of Phantasy Star Online made to work on the Dolphin emulator. Textures were dumped with Dolphin's texture dumping feature as well as Venomalia's DolphinTextureExtraction-tool, and upscaled with the HDcube 3 ESRGAN model.
