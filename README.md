@@ -3,6 +3,10 @@ A High Definition Texture Pack for the Gamecube version of Phantasy Star Online.
 
 This is a texture pack for the Gamecube version of Phantasy Star Online made to work on the Dolphin emulator. Textures were dumped with Dolphin's texture dumping feature as well as Venomalia's DolphinTextureExtraction-tool, and upscaled with the HDcube 3 ESRGAN model.
 
+![HDpack1](https://github.com/user-attachments/assets/bd3472e2-a930-494e-9760-8407b61ad452)
+
+
+
 # NOTES ON CURRENT STATE OF THE TEXTURE PACK #
 
 Current version has textures for all of episode 1 and episode 2.
