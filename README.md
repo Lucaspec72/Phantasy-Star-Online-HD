@@ -7,7 +7,7 @@ This is a texture pack for the Gamecube version of Phantasy Star Online made to 
 
 
 
-# NOTES ON CURRENT STATE OF THE TEXTURE PACK #
+# Notes on the current state Of the Texture Pack #
 
 Current version has textures for all of episode 1 and episode 2.
 
@@ -18,7 +18,7 @@ Unfortunately, the game's text doesn't seem to be upscalable, and would likely r
 FMVs aren't included since they take a large amount of storage space (about 16gigs) due to being stored as individual frames rather than a normal video file. If you know any workarounds for this, feel free to contact me.
 
 
-# HOW TO HELP #
+# How to Help #
 
 You can give me feedback by contacting me on discord (@lucaspec72#9705), things like non-upscaled textures or anything of note.
 
